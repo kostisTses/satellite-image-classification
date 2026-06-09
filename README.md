@@ -1,6 +1,8 @@
 # Satellite image classification on the EUROSAT dataset
 
-PyTorch-based image classification on the **EuroSAT** satellite image dataset, implemented in a single Jupyter notebook. The project appears to be an individual course assignment focused on comparing deep learning methods on satellite imagery. :contentReference[oaicite:0]{index=0}
+PyTorch-based image classification on the **EuroSAT** satellite image dataset, implemented in a single Jupyter notebook. The project appears to be an individual course assignment focused on comparing deep learning methods on satellite imagery. 
+
+Project was done for the deep-learning class (ΕΠ22στ) in the University of Athens , DIT
 
 ## Repository contents
 
@@ -19,4 +21,5 @@ PyTorch-based image classification on the **EuroSAT** satellite image dataset, i
 Typical Python dependencies used in the notebook:
 
 ```bash
-pip install torch torchvision numpy matplotlib pillow cert
+pip install torch torchvision numpy matplotlib pillow scikit-learn pandas
+
